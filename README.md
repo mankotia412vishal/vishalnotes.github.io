@@ -8,8 +8,9 @@
 1. Clone the repo
 2. Install Live server extension and Open with live server.
 
-<link ="https://mankotia412vishal.github.io/vishalnotes.github.io/"/>
-## Screen shots
+ ---
+## Screenshots
+
 
 ![image](https://user-images.githubusercontent.com/90970004/219346654-c271396f-d097-4b46-969f-e431ad5effec.png)
 
